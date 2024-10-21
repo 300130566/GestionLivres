@@ -13,6 +13,7 @@ internal class Program
         Roman roman2 = new Roman("Le Petit Prince", "Antoine de Saint-Exupery", 96, "Conte philosophique");
         Roman roman3 = new Roman("La Peste", "albert Camus", 320, "Roman philosophique");
 
+
         revue1.AfficherDetails();
         revue2.AfficherDetails();
         revue3.AfficherDetails();
@@ -20,6 +21,23 @@ internal class Program
         roman1.AfficherDetails();
         roman2.AfficherDetails();
         roman3.AfficherDetails();
+
+
+        List<Livres> Livres = new List<Livres>();
+
+        Livres.Add(revue1);
+        Livres.Add(revue2);
+        Livres.Add(revue3);
+        Livres.Add(roman1);
+        Livres.Add(roman2);
+        Livres.Add(roman3);
+
+        foreach (Livres livre in Livres)
+        {
+            livre.AfficherDetails();
+            Console.WriteLine();
+        }
+
     }
 
 }
