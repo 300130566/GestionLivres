@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\COURS SEMESTRE 3\\Develloppement d\u0027Application\\TP\\ConsoleAppLivres\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B3AE717-5BA7-4929-AD65-4A59BBAA52F0}|ConsoleAppLivres\\ConsoleAppLivres.csproj|c:\\cours semestre 3\\develloppement d\u0027application\\tp\\consoleapplivres\\consoleapplivres\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B3AE717-5BA7-4929-AD65-4A59BBAA52F0}|ConsoleAppLivres\\ConsoleAppLivres.csproj|solutionrelative:consoleapplivres\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B3AE717-5BA7-4929-AD65-4A59BBAA52F0}|ConsoleAppLivres\\ConsoleAppLivres.csproj|c:\\cours semestre 3\\develloppement d\u0027application\\tp\\consoleapplivres\\consoleapplivres\\roman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B3AE717-5BA7-4929-AD65-4A59BBAA52F0}|ConsoleAppLivres\\ConsoleAppLivres.csproj|solutionrelative:consoleapplivres\\roman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B3AE717-5BA7-4929-AD65-4A59BBAA52F0}|ConsoleAppLivres\\ConsoleAppLivres.csproj|c:\\cours semestre 3\\develloppement d\u0027application\\tp\\consoleapplivres\\consoleapplivres\\revue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B3AE717-5BA7-4929-AD65-4A59BBAA52F0}|ConsoleAppLivres\\ConsoleAppLivres.csproj|solutionrelative:consoleapplivres\\revue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B3AE717-5BA7-4929-AD65-4A59BBAA52F0}|ConsoleAppLivres\\ConsoleAppLivres.csproj|c:\\cours semestre 3\\develloppement d\u0027application\\tp\\consoleapplivres\\consoleapplivres\\livres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B3AE717-5BA7-4929-AD65-4A59BBAA52F0}|ConsoleAppLivres\\ConsoleAppLivres.csproj|solutionrelative:consoleapplivres\\livres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Roman.cs",
+              "DocumentMoniker": "C:\\COURS SEMESTRE 3\\Develloppement d\u0027Application\\TP\\ConsoleAppLivres\\ConsoleAppLivres\\Roman.cs",
+              "RelativeDocumentMoniker": "ConsoleAppLivres\\Roman.cs",
+              "ToolTip": "C:\\COURS SEMESTRE 3\\Develloppement d\u0027Application\\TP\\ConsoleAppLivres\\ConsoleAppLivres\\Roman.cs",
+              "RelativeToolTip": "ConsoleAppLivres\\Roman.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T01:37:03.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Revue.cs",
+              "DocumentMoniker": "C:\\COURS SEMESTRE 3\\Develloppement d\u0027Application\\TP\\ConsoleAppLivres\\ConsoleAppLivres\\Revue.cs",
+              "RelativeDocumentMoniker": "ConsoleAppLivres\\Revue.cs",
+              "ToolTip": "C:\\COURS SEMESTRE 3\\Develloppement d\u0027Application\\TP\\ConsoleAppLivres\\ConsoleAppLivres\\Revue.cs",
+              "RelativeToolTip": "ConsoleAppLivres\\Revue.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T22:29:06.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Livres.cs",
+              "DocumentMoniker": "C:\\COURS SEMESTRE 3\\Develloppement d\u0027Application\\TP\\ConsoleAppLivres\\ConsoleAppLivres\\Livres.cs",
+              "RelativeDocumentMoniker": "ConsoleAppLivres\\Livres.cs",
+              "ToolTip": "C:\\COURS SEMESTRE 3\\Develloppement d\u0027Application\\TP\\ConsoleAppLivres\\ConsoleAppLivres\\Livres.cs",
+              "RelativeToolTip": "ConsoleAppLivres\\Livres.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T21:31:22.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\COURS SEMESTRE 3\\Develloppement d\u0027Application\\TP\\ConsoleAppLivres\\ConsoleAppLivres\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleAppLivres\\Program.cs",
+              "ToolTip": "C:\\COURS SEMESTRE 3\\Develloppement d\u0027Application\\TP\\ConsoleAppLivres\\ConsoleAppLivres\\Program.cs",
+              "RelativeToolTip": "ConsoleAppLivres\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T20:22:49.844Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
